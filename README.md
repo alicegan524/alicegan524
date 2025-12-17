@@ -47,4 +47,4 @@ University Technology Malaysia (Johor Campus)
 ## ☎️ Contact 
 - [GitHub](https://github.com/alicegan524)
 - [LinkedIn](https://www.linkedin.com/in/gan-mei-lee-61790a395)
-- [Gmail](ganmeilee@graduate.utm.my)
+- [Gmail](mailto:ganmeilee@graduate.utm.my)
