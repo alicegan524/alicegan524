@@ -49,4 +49,4 @@ University Technology Malaysia (Johor Campus)
 - [GitHub](https://github.com/alicegan524)
 - [LinkedIn](https://www.linkedin.com/in/gan-mei-lee-61790a395)
 - [Gmail](mailto:ganmeilee@graduate.utm.my)
-- [Eportfolio](https://alicegan524.github.io/）
+- [Eportfolio](https://alicegan524.github.io/)
