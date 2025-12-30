@@ -43,6 +43,7 @@ University Technology Malaysia (Johor Campus)
 ## 💪 Skills
 - Java
 - C++
+- CTF
 
 ## ☎️ Contact 
 - [GitHub](https://github.com/alicegan524)
